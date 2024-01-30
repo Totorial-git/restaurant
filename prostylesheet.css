@@ -1,0 +1,116 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: century Gothic;
+}
+
+.B {
+  background-image: url(images/img4.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: black;
+  width: 100%;
+  background-color: aliceblue;
+  height: 600px;
+}
+.A {
+  background-color: burlywood;
+  padding: 15px;
+  text-align: center;
+}
+.A a {
+  padding: 6px;
+  text-decoration: none;
+  color: white;
+}
+span {
+  font-size: small;
+  text-transform: uppercase;
+  padding-bottom: 25px;
+  display: block;
+}
+h1 {
+  font-size: 1.8em;
+  padding-bottom: 20px;
+}
+.C {
+  background-color: blue;
+  color: white;
+  text-align: center;
+  padding: 50px;
+}
+
+.ee {
+  width: 80%;
+  display: flex;
+  flex-wrap: wrap;
+  margin: 0 auto;
+}
+.F {
+  width: 50%;
+  float: right;
+  margin: 70px;
+}
+.ff {
+  width: 80%;
+  display: flex;
+  flex-wrap: wrap;
+  margin: 0 auto;
+}
+.E {
+  width: 50%;
+  float: right;
+  margin: 70px;
+}
+h2 {
+  font-size: 1.5em;
+  padding-bottom: 18px;
+}
+.rr {
+  width: 100%;
+  background-color: burlywood;
+}
+.aa,
+img {
+  width: 300px;
+  height: 300px;
+  display: inline;
+  border-radius: 10px;
+  justify-content: space-evenly;
+  text-align: center;
+  margin: 30px;
+}
+
+.aa img {
+  width: 350px;
+}
+
+.tt {
+  width: 80%;
+  display: flex;
+  margin: 0 auto;
+  padding: 20px;
+}
+input,
+textarea,
+button {
+  display: block;
+  width: 80%;
+  padding: 8px;
+  margin-bottom: 8px;
+}
+.bb {
+  margin: 10px;
+  width: 40%;
+}
+.cc {
+  float: right;
+  width: 50%;
+}
+
+footer {
+  text-align: center;
+  background-color: burlywood;
+  padding: 20px;
+}
